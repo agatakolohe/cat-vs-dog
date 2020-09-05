@@ -1,0 +1,10 @@
+.kitty-showing {
+  max-height: 20%;
+  max-width: 20%;
+  display: none;
+}
+.doggy-showing {
+  max-height: 10%;
+  max-width: 10%;
+  display: none;
+}
